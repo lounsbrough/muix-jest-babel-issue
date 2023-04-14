@@ -1,6 +1,6 @@
 # Reproduction of Issue: https://github.com/mui/mui-x/issues/8572
 
-## UPDATE: After upgrading to `6.2.0` the issue is no longer reproducible
+## UPDATE: Issue seems to be `nwsapi` https://github.com/dperini/nwsapi/issues/80
 
 1. Clone this repo
 1. Run `pnpm i`
